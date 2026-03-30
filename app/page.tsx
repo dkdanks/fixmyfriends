@@ -37,7 +37,7 @@ export default function HomePage() {
           <p className="eyebrow">Group gifting with a reason</p>
           <h1>Fix the thing your friend actually talks about.</h1>
           <p className="lede">
-            `fixmyfreinds.com` is a group funding platform for practical birthday gifts. One friend sets up the fund,
+            `fixmyfriends.com` is a group funding platform for practical birthday gifts. One friend sets up the fund,
             everyone chips in, and the final gift lands with a story attached instead of feeling like plain cash.
           </p>
           <div className="hero-actions">

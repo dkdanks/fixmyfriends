@@ -1,6 +1,6 @@
-# fixmyfreinds
+# fixmyfriends
 
-Fresh Next.js app for `fixmyfreinds.com`.
+Fresh Next.js app for `fixmyfriends.com`.
 
 ## Getting started
 

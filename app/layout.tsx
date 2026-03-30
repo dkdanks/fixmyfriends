@@ -13,7 +13,7 @@ const displayFont = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "fixmyfreinds.com",
+  title: "fixmyfriends.com",
   description:
     "A playful group funding platform where friends chip in for practical birthday gifts with a story behind them.",
 };
